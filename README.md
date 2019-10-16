@@ -108,24 +108,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 10. Run the Server.
 
-## Screenshots:
-
-### Home Page:
-
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
-
-### Products Page:
-
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
-
-### Work Board Page:
-
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
-
-## How can I support the developer ?
-
-* Star my Github repo ⭐
-* Create pull requests, submit bugs, suggest new features or documentation updates 🛠
 
 ## Development server
 
@@ -139,23 +121,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-
-## Somethings wrong!!
-
-- If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
-
-## License
-
-This project is licensed under the MIT License - see the [MIT license](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) file for details
